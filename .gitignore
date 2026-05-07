@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+venv/
+.env/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Output artifacts
+output/
+outputs/
+*.html
+*.json
+
+# Selenium / Chrome artifacts
+chromedriver*
+geckodriver*
+selenium-debug.log
+
+# Temp
+tmp/
+temp/
+
+# IDE
+.vscode/
+.idea/
